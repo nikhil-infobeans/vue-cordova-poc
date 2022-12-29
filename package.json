@@ -34,7 +34,7 @@
     "@babel/eslint-parser": "^7.12.16",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
-    "@vue/cli-service": "~5.0.0",
+    "@vue/cli-service": "~5.0.8",
     "cordova-android": "^9.1.0",
     "cordova-open-native-settings": "^1.5.5",
     "cordova-plugin-camera": "^5.0.3",
