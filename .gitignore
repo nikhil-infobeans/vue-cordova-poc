@@ -21,3 +21,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Cordova
+/vue-cordova-capacitor/platforms
+/vue-cordova-capacitor/plugins
+/public/cordova.js
